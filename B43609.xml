@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all persons of quality, ladies, gentlemen, tradesmen, and all others to whom these epistolary lines may come, I.P. wisheth all health and happiness, length of days, with increase of riches.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43609</idno><idno type="EEBO-CITATION">690988924</idno>
+  <idno type="VID">211649</idno>
+  <idno type="EEBO-PROQUEST">2240885923</idno>
+  
+            <idno type="OCLC"> 690988924</idno>
+            <idno type="OCLC">ocn 690988924</idno>
+            <idno type="STC">Wing P627E</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211649)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2982:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all persons of quality, ladies, gentlemen, tradesmen, and all others to whom these epistolary lines may come, I.P. wisheth all health and happiness, length of days, with increase of riches.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed with allowance, Octob. 5, 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed: John Partridge.</note>
+                  <note>Reproduction of original in: Corpus Christi College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Health --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:211649:1"/>
+            <pb n="1" facs="tcp:211649:2"/>
+            <head>
+               <hi>To all Persons of Quality, Ladies, Gen<g ref="char:EOLhyphen"/>tlemen, Tradesmen, and all others to whom these Epistolary Lines may come,</hi> I. P. <hi>wisheth all Health and Happiness, length of days, with in<g ref="char:EOLhyphen"/>crease of Riches.</hi>
+            </head>
+            <head type="sub">
+               <hi>Printed with Allowance,</hi> Octob. 5. 1671.</head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>IF Man will give himself the trouble but to turn his Eye upon himself, and consider how great things God hath done for him; but especially to take a view of those vast Endowments with which he hath inspired his rational Soul: I think he cannot chuse but divert himself into a Divine Extasie, and cry with <hi>Job, Quid agerem tibi, O custos hominum, Chap.</hi> 7. 20. For so great is the sweet Influence of his mercy, in making man so perfect in those Theological Virtues of Knowledge, Wisdom, and Learning (of which large Volumes have been written)
+<pb n="2" facs="tcp:211649:3"/> that it would befool the best of Wits, that should be so perem<g ref="char:EOLhyphen"/>ptory to undertake to give a full account of it to us; and if we were able to gild our Language with Angelical Oratory, we could not speak its due praise.</p>
+            <p>But if we consider Learning as it is, and that as it is sought with great diligence, so its use proclaimes its Vertues, and tells us, that it is an Ornament to Nature, the Handmaid of Wisdom, the right Hand of Physick, and the greatest perfe<g ref="char:EOLhyphen"/>ction of Humanity: For he that is once well acquainted with this, he climbs (like the Antiquary from year to year, till he arriveth at the Ancient of days) from one degree of Learning to another; as in Naturals, Vegetables, Animals, and so in himself where he may read the misery and frailty of man, and lastly in the Elementary World; and so from things created to the Creator, in which place he must with admiration cease to inquire, and be proud of his ignorance, lest his prying into those things, makes him for ever accursed.</p>
+            <p>Now it hath been the care of Judicious men in all Ages, as well Heathens as Christians, to preserve the learned producti<g ref="char:EOLhyphen"/>ons of their Labours, to instruct and encourage those that shall inquire for the future. Neither is man made for a self<g ref="char:EOLhyphen"/>end, as the Learned <hi>Plato</hi> tells us, when he saith, <hi>We are born not for our selves alone; but partly for our Country, partly for our Parents, and partly for our Friends:</hi> and whatever was first made, was created for mans use; and man created for the mutual assistance one of another, and all for the glory of God. Now there is nothing in the World that can give a more ample demonstration that we follow the Rule of <hi>Plato,</hi> than by putting in practice the gifts bestowed upon us.</p>
+            <p>Nor do I think any thing can be more sweet and pleasant to the Student, nor more honourable to God, than for one man to study the Health and Welfare of another.</p>
+            <p>It was the sin of man that hath made him miserable; and Sickness and Diseases is a great part of it in this World. And seeing it is so, and that God hath afforded him succour in these
+<pb n="3" facs="tcp:211649:3"/> Calamities, why should any man be so stupidly sottish, as to refuse to understand it, or when in necessity to refuse the fruition of it.</p>
+            <p>And now because the Study of Physick, and the Nature of mans Body belongs to my Practice and Profession, I think it highly convenient to speak something in reference to them both; and also to acquit my self like a Physician.</p>
+            <p>And because I spoke in the Praise of Learning, take notice, that by the help of that we are assisted to consider, that the Omnipotent Creator by his Divine Will, out of a lumpish, massie, confused nothing, created a decent Order, a comely Structure, Heaven and Earth, a World of every thing.</p>
+            <p>Separated the Darkness from the Light, the Waters from the Earth; gave limits and bounds to the swelling Waves, sunk the deep Channels of the Ocean, and drawed the Waters into their proper stations, that so Earth and Water might make one compleat Superficies, adorning the Earth with her vegetable Companions (of various Colours and Forms, as it were Arms and Scutcheon of the great Creator) indued the Earth with a fructifying quality; Beautified the Heavens with Stars of various Natures; made two great Lights to divide day and night, and to distinguish the seasons of the year.</p>
+            <p>The Air was furnished with Fowls, the Sea repleat with Fishes; and thus were all things put into a perfect order (which five days before were all disorder) fit to entertain a Governour to sway and controul the unruly Nature of brutish Beasts, and to manure and take the sweetness of things created.</p>
+            <p>Thus the Creator draws to a conclusion of his Work, and seems to question and take Counsel with himself, and say, <hi>Faciamus hominem ad imaginem nostram,</hi> thereby to make man more honourable than any other Creature: So he concludes to make him one part earthly, and two parts heavenly; he gave him a terrene Body, but an immortal Soul, a Divine shape with his face erect towards Heaven, and his Under<g ref="char:EOLhyphen"/>standing
+<pb n="4" facs="tcp:211649:4"/> partly Divine, and partly Natural.</p>
+            <p>Thus did God finish the Creation in making man, and did assign him with his own Stamp, so that we have Gods Hand and Seal for it.</p>
+            <p>Thus was man formed, called by the Greeks <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in reference to his Manhood and Creation; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in reference to his parts, he being an Epitome of the Macro<g ref="char:EOLhyphen"/>cosm or greater World.</p>
+            <p>Now let us inquire how Diseases are bred in the Body of Man, and how he comes to be crazy and sickly; therefore take notice, I told you there were Stars in the Heavens of several Natures; so there are humours in the body of man that are governed by those Stars, so that according to their motion, Rays and Aspects are the natural humours of man either nourished or debilitated, inflamed or congealed, cor<g ref="char:EOLhyphen"/>rupted or cleansed, increased or extinguished. For at some<g ref="char:EOLhyphen"/>times by their cruel Influence they do inflame the blood, con<g ref="char:EOLhyphen"/>sume the Spirits, exhaust the <hi>humidum radi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale,</hi> and render Diseases so potent, they will not answer to Physick, although ingeniously applied; witness that raging Pestilence 1665. and that Pestilential Dysenteria in 1670. with many o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>When at some other time by their beneficial Rays, they proclaim the Voice of Joy and Health among us, and make that Balsamick, which before was Arsenical.</p>
+            <p>Therefore this is the <hi>primum mobile</hi> of all Effects, and the very <hi>Punctum</hi> from whence we must derive all our Progno<g ref="char:EOLhyphen"/>sticks, both in Sickness and in Health, and from whence we must seek an account of the Course of Nature. Now ha<g ref="char:EOLhyphen"/>ving run over the Heads of the Course of Nature, we may admire the greatness of God in the Worlds Creation, his Mercy in its preservation, and his Wisdom in its operation, and cry out with the Psalmist, <hi>Quam magna sunt facta tua, Jehova, valdè profundae sunt cogitationes tuae,</hi> Psal. 92. 5.</p>
+            <p>Now it will be convenient to speak something concerning
+<pb n="5" facs="tcp:211649:4"/> the Nature and Signs of certain Diseases, which I think, if rightly considered by some, they would not go so head-long to work as they do, mistaking one thing for another, and so prove the Nurses of Diseases.</p>
+            <p>The Scurvy is a Disease very common among us; and because common, but little taken notice of; when indeed it is the very Mother of all Diseases that proceed from Obstructi<g ref="char:EOLhyphen"/>ons; and we meet it daily in a several Guise and Habit, and appearing by several Symptoms. For sometimes it is disco<g ref="char:EOLhyphen"/>vered by Laxity, Costiveness, or various coloured Urines, pu<g ref="char:EOLhyphen"/>trid Gums, loose Teeth, stinking Breath, wandring Joynt<g ref="char:EOLhyphen"/>pains, Pustles, consumptive Wastings, shortness of Breath, Suffocation, Stitches, Scurff, and other Eruptions of the Skin, with many more such like: So that it may well be called the <hi>Protean</hi> Disease, by reason of its various shapes.</p>
+            <p>But because there be many that have this disease, and yet are unwilling to make use of a Physician, I shall for their be<g ref="char:EOLhyphen"/>nefit prescribe a very safe, easie, and familiar way of Cure; and therefore take notice, the Cure consisteth in opening Ob<g ref="char:EOLhyphen"/>structions, in carrying of the filth by Purgation, and by corro<g ref="char:EOLhyphen"/>borating the Body; and first begin with an opening Purge, thus:</p>
+            <p>Take <hi>Senna cleansed one ounce, Rhubarb one dram; infuse them twenty four hours in a pint of Ale or white Wine, then make it a little sharp with Oyl of Vitriol; and take half an or<g ref="char:EOLhyphen"/>dinary Beer-glass full in a morning once or twice a week,</hi> and it will open the Obstructions, and finely cleanse the body. And because gentle Purgers are apt to stir up wind, you may take in every Dose as much Ginger as will lye on a shilling or more. For a strengthning Medicine,</p>
+            <p>Take <hi>Mithridate one dram, Antimony Diaphoretick seven grains, Salt of Scurvy-grass one scruple: mix them, and take it at night going to bed, drink a little muld Sack after it, and sweat if you can.</hi> This continued, will do more good than most of their Chymical Preparations so much cryed up.</p>
+            <pb n="6" facs="tcp:211649:5"/>
+            <p> The Dropsie is a disease that generally takes its beginning from a cold Liver; which being not able to sanguifie, sendeth a waterish humour into the Cavity of the Belly, which by de<g ref="char:EOLhyphen"/>grees swelleth all the parts of the body: so that after due Evacuations, good Diet-drinks, is the best Method of Cure.</p>
+            <p>The Consumption is a disease usually coming from a de<g ref="char:EOLhyphen"/>fluxive Rheum, and is known at first by a small Feaver, after<g ref="char:EOLhyphen"/>wards by a Cough, spitting up mattry flegm, want of Appe<g ref="char:EOLhyphen"/>tite, looseness of the Belly, with other such Symptoms; yet let none despair of a Cure, if not too far spent.</p>
+            <p>The French Pox is a disease not known always by a Flux of the Yard, but by Pains, Buboes, Nodes, putrid Ulcers, and such like signs; therefore those that have had such foul play in the Sport of <hi>Venus,</hi> let them not fear, but be assured of a Cure without Fluxing, Salivation, Unction, or any such cur<g ref="char:EOLhyphen"/>sed way invented rather to kill, than cure a Patient, to turn Beauty into a beastly Visage, a pleasant Countenance into a Face like Hell-flames.</p>
+            <p>The Stone and Gravel is both painful and common, and is so well known, that it needeth no distinct signs to be laid down; yet take notice I have Remedies that few or none know besides my self, and hath or knows will certainly cure, if the disease be not so rebellious to defie all Medicines. I might, if I had more room, have spoke of Agues, Feavers, Jaundice, Coughs, Itch, Womens Diseases, pains in the sides, Deafness, Worms both in old and young: And for Womens sore Breasts after their Delivery; I have a most specifick Bal<g ref="char:EOLhyphen"/>som which cureth at twice dressing, if there is no Tumor; as also all other such painful Sores. But I shall conclude here, and speak something to the second Branch of Study, and that is the most commendable and ingenious Art of Astrology, by so many abused. Let us therefore see what things are pre<g ref="char:EOLhyphen"/>dicable by the Stars, nay let us see what things are not predi<g ref="char:EOLhyphen"/>cable, if scanned by an ingenious Artist. I wonder some think ill of this Art, I do ingage it is neither joyned with Ma<g ref="char:EOLhyphen"/>gick,
+<pb n="7" facs="tcp:211649:5"/> knit to Witchcraft, nor supported by Cheating; but harmless, legal, innocent, and profitable: and had not some of its Professors plaid the Knave by it, it had never been so much abused by the Ignorant; for it is one of the most inge<g ref="char:EOLhyphen"/>nious of the Mathematicks, because it discourseth the life of man from the Cradle to the Grave; yet not offensive to the Almighties will. By this may the life of man be handled, with all his Diseases, Craziness, Discomposure of Body, occa<g ref="char:EOLhyphen"/>sioned either by bad directions or bad revolutions, or other bad Positions of the malevolent Stars; by this we are inabled to discover whatsoever depends upon the wealth of one born, whether it will be or not, or whether it will continue or not. I have sometimes admired at the Sympathy of the Heavens with our Actions, when I have seen the truth experienced concerning Women conceiving with Child, their Delivery, together with the Sex of the Infant; so that if Truth may speak for the Art, why should Envy contradict it?</p>
+            <p>Thus I have given you a Synopsis of the Art of Astrology, assuring you that all that can be done by Astrology, is lawful; and what cannot be discovered by it, may be judged to be the secret Counsels of the Almighty: where we shall conclude, and tell you that Physick and Astrology in all its parts, whether Nativities or Questions, are faithfully studied and practised by me.</p>
+            <closer>
+               <signed>John Partridge.</signed>
+            </closer>
+            <postscript>
+               <p>All those that are desirous to make use of my Judgment, either Physically or Astrologically, let them repair to my Lodging, a little below the <hi>Pay-Office,</hi> on the other side of the way, next door to the <hi>Kings-Head</hi> in <hi>Broad-street,</hi> near <hi>Bishopsgate,</hi> where I shall give Attendance till three of the Clock in the Afternoon, where they shall be treated civilly, discoursed modestly, and used honestly.</p>
+            </postscript>
+            <pb facs="tcp:211649:6"/>
+            <pb facs="tcp:211649:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
